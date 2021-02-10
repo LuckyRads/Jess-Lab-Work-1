@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T22:22:24.012Z" agent="5.0 (Windows)" etag="UbwVKhViwRQosyHd6ADW" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T22:28:04.223Z" agent="5.0 (Windows)" etag="DXkfa9m5gJm-5pL9aBbu" version="14.3.0" type="github">
   <diagram id="v0tCK7hvLTf_ZGROnLf3" name="Page-1">
-    <mxGraphModel dx="3760" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="4929" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,8 +125,11 @@
         <mxCell id="d1zsz3syYBLmQ0Gh38gO-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-38" target="d1zsz3syYBLmQ0Gh38gO-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-38" target="d1zsz3syYBLmQ0Gh38gO-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d1zsz3syYBLmQ0Gh38gO-38" value="Is it made in Germany?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1460" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2080" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d1zsz3syYBLmQ0Gh38gO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-39" target="d1zsz3syYBLmQ0Gh38gO-42">
           <mxGeometry relative="1" as="geometry" />
@@ -200,10 +203,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d1zsz3syYBLmQ0Gh38gO-62" value="&lt;div&gt;Is the manufacturer famous for making sporty rear wheel drive vehicles?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1800" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2560" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d1zsz3syYBLmQ0Gh38gO-64" value="It is BMW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2040" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2800" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d1zsz3syYBLmQ0Gh38gO-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-66" target="d1zsz3syYBLmQ0Gh38gO-69">
           <mxGeometry relative="1" as="geometry" />
@@ -212,13 +215,80 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d1zsz3syYBLmQ0Gh38gO-66" value="Does the manufacturer own lots of other vehicle brands?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1600" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2360" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d1zsz3syYBLmQ0Gh38gO-69" value="It is Volkswagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1820" y="827" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2580" y="827" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d1zsz3syYBLmQ0Gh38gO-70" value="It is Mercedes-Benz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2160" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-73" target="d1zsz3syYBLmQ0Gh38gO-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-73" target="d1zsz3syYBLmQ0Gh38gO-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-73" value="Is it made in Sweden?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-75" target="d1zsz3syYBLmQ0Gh38gO-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-75" target="d1zsz3syYBLmQ0Gh38gO-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-75" value="Are old vehicles made by this brand very boxy looking?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1800" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-77" value="It is Volvo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1970" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-79" value="It is Saab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-81" target="d1zsz3syYBLmQ0Gh38gO-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-81" target="d1zsz3syYBLmQ0Gh38gO-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-81" value="Is it made in Italy?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-83" target="d1zsz3syYBLmQ0Gh38gO-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-83" target="d1zsz3syYBLmQ0Gh38gO-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1220" y="857" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-83" value="Is it a supercar?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1400" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-86" target="d1zsz3syYBLmQ0Gh38gO-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-86" target="d1zsz3syYBLmQ0Gh38gO-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-86" value="Is it made in Spain?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-88" value="It is Seat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-90" value="Is it made in Poland?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-92" value="It is Ferrari" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-94" value="It is Fiat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
