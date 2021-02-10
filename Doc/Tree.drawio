@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T22:28:04.223Z" agent="5.0 (Windows)" etag="DXkfa9m5gJm-5pL9aBbu" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T22:32:09.014Z" agent="5.0 (Windows)" etag="_hy4ITV2CWKPxQUpUPnw" version="14.3.0" type="github">
   <diagram id="v0tCK7hvLTf_ZGROnLf3" name="Page-1">
-    <mxGraphModel dx="4929" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="10380" dy="3743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,7 +281,13 @@
         <mxCell id="d1zsz3syYBLmQ0Gh38gO-88" value="It is Seat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1120" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d1zsz3syYBLmQ0Gh38gO-90" value="Is it made in Poland?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-90" target="d1zsz3syYBLmQ0Gh38gO-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-90" target="d1zsz3syYBLmQ0Gh38gO-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-90" value="Is it made in France?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-810" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d1zsz3syYBLmQ0Gh38gO-92" value="It is Ferrari" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -289,6 +295,24 @@
         </mxCell>
         <mxCell id="d1zsz3syYBLmQ0Gh38gO-94" value="It is Fiat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1280" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-96" value="Is it Renault" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-98" target="d1zsz3syYBLmQ0Gh38gO-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-98" target="d1zsz3syYBLmQ0Gh38gO-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-98" value="Is it made in the UK?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-100" value="It is Bentley" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-102" value="&lt;div&gt;It isŠkoda&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
