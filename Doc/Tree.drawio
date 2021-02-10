@@ -1,1 +1,419 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T21:56:16.516Z" agent="5.0 (Windows)" etag="sfbMkt2ljfrPUBfhZ97K" version="14.3.0" type="github"><diagram id="v0tCK7hvLTf_ZGROnLf3" name="Page-1">ddHNEoIgEADgp+GukE6dzerSyUNnRjZhBl0GabSePh0wY6wLA9/u8rMQVrTj2XIjryhAE5qIkbAjoTTb02mc4ekhzRPmpbFKBFuhUi8ImAR9KAF9lOgQtVMmxhq7DmoXGbcWhzjtjjo+1fAGNlDVXG/1poSTQdP8sAYuoBq5HJ1nOx9p+ZIdntJLLnD4IlYSVlhE52ftWICeu7c0xted/kQ/N7PQuR8F02Tde1pEX8TKNw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-10T22:37:05.118Z" agent="5.0 (Windows)" etag="dRlJrD0TR0a613jpOGCc" version="14.3.0" type="github">
+  <diagram id="v0tCK7hvLTf_ZGROnLf3" name="Page-1">
+    <mxGraphModel dx="7631" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-1" target="d1zsz3syYBLmQ0Gh38gO-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-1" target="d1zsz3syYBLmQ0Gh38gO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-1" value="Is it a land vehicle?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-3" value="&lt;div&gt;Is it a car?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-4" target="d1zsz3syYBLmQ0Gh38gO-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-4" target="d1zsz3syYBLmQ0Gh38gO-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-4" value="&lt;div&gt;Does it have 4 wheels?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-5" target="d1zsz3syYBLmQ0Gh38gO-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-5" target="d1zsz3syYBLmQ0Gh38gO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-5" value="&lt;div&gt;Does it fly?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-6" value="&lt;div&gt;It is a plane&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-7" target="d1zsz3syYBLmQ0Gh38gO-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-7" target="d1zsz3syYBLmQ0Gh38gO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-7" value="&lt;div&gt;Does it float on water?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-8" value="It is a ship" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-9" value="It is a spaceship" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-20" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-21" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-22" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-23" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="70" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-24" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="170" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-25" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="310" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-26" target="d1zsz3syYBLmQ0Gh38gO-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-26" target="d1zsz3syYBLmQ0Gh38gO-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-26" value="Does it have an engine?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-28" value="&lt;div&gt;It is a superbike&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-29" value="It is a regular bike" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-32" target="d1zsz3syYBLmQ0Gh38gO-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="142" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-32" target="d1zsz3syYBLmQ0Gh38gO-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-32" value="Is it made in Europe?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-33" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-34" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="310" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-35" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-37" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-38" target="d1zsz3syYBLmQ0Gh38gO-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-38" target="d1zsz3syYBLmQ0Gh38gO-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-38" value="Is it made in Germany?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2080" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-39" target="d1zsz3syYBLmQ0Gh38gO-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-39" target="d1zsz3syYBLmQ0Gh38gO-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-39" value="Is it made in Asia?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-42" target="d1zsz3syYBLmQ0Gh38gO-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-42" target="d1zsz3syYBLmQ0Gh38gO-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-42" value="Is it made in North America?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-44" target="d1zsz3syYBLmQ0Gh38gO-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-44" target="d1zsz3syYBLmQ0Gh38gO-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-44" value="Is the manufacturer located in an island?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-46" target="d1zsz3syYBLmQ0Gh38gO-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-46" target="d1zsz3syYBLmQ0Gh38gO-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-46" value="Is the founder of the company famous?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-47" value="It is Ford" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-50" value="It is Dodge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-52" value="It is Kia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-54" target="d1zsz3syYBLmQ0Gh38gO-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-54" target="d1zsz3syYBLmQ0Gh38gO-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-54" value="Is the manufacturer mainly producing all wheel drive vehicles?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-57" value="&lt;div&gt;It is Subaru&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-644" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-58" value="It is Toyota" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-62" target="d1zsz3syYBLmQ0Gh38gO-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-62" target="d1zsz3syYBLmQ0Gh38gO-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-62" value="&lt;div&gt;Is the manufacturer famous for making sporty rear wheel drive vehicles?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2560" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-64" value="It is BMW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2800" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-66" target="d1zsz3syYBLmQ0Gh38gO-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-66" target="d1zsz3syYBLmQ0Gh38gO-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-66" value="Does the manufacturer own lots of other vehicle brands?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2360" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-69" value="It is Volkswagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2580" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-70" value="It is Mercedes-Benz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2160" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-73" target="d1zsz3syYBLmQ0Gh38gO-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-73" target="d1zsz3syYBLmQ0Gh38gO-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-73" value="Is it made in Sweden?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-75" target="d1zsz3syYBLmQ0Gh38gO-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-75" target="d1zsz3syYBLmQ0Gh38gO-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-75" value="Are old vehicles made by this brand very boxy looking?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1800" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-77" value="It is Volvo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1970" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-79" value="It is Saab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-81" target="d1zsz3syYBLmQ0Gh38gO-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-81" target="d1zsz3syYBLmQ0Gh38gO-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-81" value="Is it made in Italy?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-83" target="d1zsz3syYBLmQ0Gh38gO-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-83" target="d1zsz3syYBLmQ0Gh38gO-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1220" y="857" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-83" value="Is it a supercar?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-86" target="d1zsz3syYBLmQ0Gh38gO-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-86" target="d1zsz3syYBLmQ0Gh38gO-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-86" value="Is it made in Spain?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-88" value="It is Seat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-90" target="d1zsz3syYBLmQ0Gh38gO-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-90" target="d1zsz3syYBLmQ0Gh38gO-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-90" value="Is it made in France?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-92" value="It is Ferrari" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-94" value="It is Fiat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-96" value="Is it Renault" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-98" target="d1zsz3syYBLmQ0Gh38gO-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-98" target="d1zsz3syYBLmQ0Gh38gO-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-98" value="Is it made in the UK?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-100" value="It is Bentley" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-102" value="&lt;div&gt;It isŠkoda&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-104" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-105" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-106" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="570" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-107" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="570" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-108" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="700" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-109" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="700" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-110" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="840" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-111" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="700" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-112" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1450" y="840" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-113" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="950" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-114" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-684" y="1080" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-115" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="700" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-116" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2410" y="700" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-117" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2140" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-118" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2610" y="570" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-119" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="430" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-120" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="700" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-121" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="570" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-122" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="700" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-123" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-124" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="950" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-125" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="840" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-126" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="1080" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-127" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="700" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-128" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="840" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-129" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="700" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-130" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1320" y="570" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-131" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1840" y="430" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-132" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2390" y="570" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-133" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2190" y="700" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-134" value="It is Holden" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-136" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="570" width="30" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
