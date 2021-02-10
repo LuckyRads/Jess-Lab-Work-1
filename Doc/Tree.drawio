@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T22:13:53.541Z" agent="5.0 (Windows)" etag="4pcBO-3s_UqG9HeI-OXT" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T22:22:24.012Z" agent="5.0 (Windows)" etag="UbwVKhViwRQosyHd6ADW" version="14.3.0" type="github">
   <diagram id="v0tCK7hvLTf_ZGROnLf3" name="Page-1">
-    <mxGraphModel dx="3231" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="3760" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,11 +122,103 @@
         <mxCell id="d1zsz3syYBLmQ0Gh38gO-37" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="170" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="d1zsz3syYBLmQ0Gh38gO-38" value="Is it rear wheel drive?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-38" target="d1zsz3syYBLmQ0Gh38gO-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d1zsz3syYBLmQ0Gh38gO-39" value="&lt;div&gt;Is it made in Japan?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-38" value="Is it made in Germany?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-39" target="d1zsz3syYBLmQ0Gh38gO-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-39" target="d1zsz3syYBLmQ0Gh38gO-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-39" value="Is it made in Asia?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-42" target="d1zsz3syYBLmQ0Gh38gO-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-42" value="Is it made in North America?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-44" target="d1zsz3syYBLmQ0Gh38gO-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-44" target="d1zsz3syYBLmQ0Gh38gO-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-44" value="Is the manufacturer located in an island?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-46" target="d1zsz3syYBLmQ0Gh38gO-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-46" target="d1zsz3syYBLmQ0Gh38gO-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-46" value="Is the founder of the company famous?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-47" value="It is Ford" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-50" value="It is Dodge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-52" value="It is Kia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-54" target="d1zsz3syYBLmQ0Gh38gO-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-54" target="d1zsz3syYBLmQ0Gh38gO-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-54" value="Is the manufacturer mainly producing all wheel drive vehicles?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-57" value="&lt;div&gt;It is Subaru&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-644" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-58" value="It is Toyota" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-62" target="d1zsz3syYBLmQ0Gh38gO-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-62" target="d1zsz3syYBLmQ0Gh38gO-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-62" value="&lt;div&gt;Is the manufacturer famous for making sporty rear wheel drive vehicles?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1800" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-64" value="It is BMW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2040" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-66" target="d1zsz3syYBLmQ0Gh38gO-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-66" target="d1zsz3syYBLmQ0Gh38gO-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-66" value="Does the manufacturer own lots of other vehicle brands?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-69" value="It is Volkswagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1820" y="827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-70" value="It is Mercedes-Benz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="827" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
