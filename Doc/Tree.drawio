@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T22:04:10.175Z" agent="5.0 (Windows)" etag="kYPGN41fEZSNxGakF0Fd" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T22:05:38.249Z" agent="5.0 (Windows)" etag="5kBcMkOVmWSQS3iN9qBA" version="14.3.0" type="github">
   <diagram id="v0tCK7hvLTf_ZGROnLf3" name="Page-1">
     <mxGraphModel dx="2062" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-1" target="d1zsz3syYBLmQ0Gh38gO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1zsz3syYBLmQ0Gh38gO-1" target="d1zsz3syYBLmQ0Gh38gO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d1zsz3syYBLmQ0Gh38gO-1" value="Is it a land vehicle?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="60" width="120" height="60" as="geometry" />
         </mxCell>
@@ -15,6 +21,18 @@
         </mxCell>
         <mxCell id="d1zsz3syYBLmQ0Gh38gO-5" value="&lt;div&gt;Does it fly?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-6" value="Plane" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-7" value="&lt;div&gt;Does it float?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-8" value="Ship" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d1zsz3syYBLmQ0Gh38gO-9" value="Spaceship" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
